@@ -43,10 +43,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>NEXO - Invest in Your Future</title>
+        <title>eToro - Invest in Your Future</title>
         <meta
           name="description"
-          content="NEXO is your trusted partner for diversified investments in cryptocurrencies, gold, and high-yield assets. Start building wealth today."
+          content="eToro is your trusted partner for diversified investments in cryptocurrencies, gold, and high-yield assets. Start building wealth today."
         />
       </Head>
       <div id="landing-container">
